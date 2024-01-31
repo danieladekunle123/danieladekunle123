@@ -17,6 +17,9 @@ Let's build something amazing together!
 ![Cisco](https://img.shields.io/badge/Cisco-%23F9321B?style=for-the-badge&logo=Cisco&logoColor=black)
 ![Microsoft Word](https://img.shields.io/badge/microsoft_word-%231B83F9.svg?style=for-the-badge&logo=microsoftword&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/microsoft_excel-%2363BE7B.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-F59C2B?style=for-the-badge&logo=SQL&logoColor=black)
+![JAVA](https://img.shields.io/badge/JAVA-FCC624?style=for-the-badge&logo=JAVA&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-%2331A8FF.svg?style=for-the-badge&logo=CSS&logoColor=white) 
 <br />
 <br />
 

@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://danieladek.com">
+    <img src="assets/logo.svg" width="96" alt="Daniel Adekunle logo" />
+  </a>
+</p>
+
 # Hi, I'm Daniel 👋
 
 I'm a Computer Science graduate from TU Dublin and a Packaged App Development Analyst at Accenture in Dublin, Ireland. I build full-stack applications and real-time platforms, and I enjoy turning ideas into polished products across frontend, backend and cloud.
